@@ -1,3 +1,6 @@
 [submodule "add2013-android"]
 	path = add2013-android
 	url = git@github.com:gdgturkiye/add2013-android.git
+[submodule "add2013-backend"]
+	path = add2013-backend
+	url = git@github.com:gdgturkiye/add2013-backend.git
